@@ -6,7 +6,7 @@
           "questionType": "complete_the_sentence",
           "questionText": "HTML stands for _________________________",
           "answerFieldId": "answer_to_question",
-          "correctAnswer": "Hyper Text Markup Language",
+          "correctAnswer": "hyper text markup language",
           "feedback": "HTML stands for Hyper Text Markup Language"
         },
         {
@@ -153,7 +153,7 @@
         "questionType": "complete_the_sentence",
         "questionText": "CSS stands for __________________.",
         "answerFieldId": "answer_to_question",
-        "correctAnswer": "Cascading Style Sheets",
+        "correctAnswer": "cascading style sheets",
         "feedback": "CSS stands for Cascading Style Sheets"
         },
         {
